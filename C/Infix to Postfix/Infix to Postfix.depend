@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623641445 source:d:\programming\cpp\infix to postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

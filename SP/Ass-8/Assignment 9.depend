@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638462668 source:d:\programming\sp\assignment 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638465294 source:d:\programming\sp\ass-8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
